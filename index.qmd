@@ -15,7 +15,6 @@ title: "Home"
     <span class="hero-tag">Mixed Methods · Public Policy · Arts & Culture</span>
     <div style="margin-bottom:1rem;">
       <h1 class="hero-name">Haedodam Kim</h1>
-      <p style="font-family:'DM Serif Display',serif; font-style:italic; font-size:22px; color:#1a1a1a; margin:0;">Researcher who tells stories with data</p>
     </div>
     <p class="hero-desc">I combine interviews, statistical analysis in R, and data visualization to produce findings that get used — with a focus on the financial, labor, and policy conditions that support long-term sustainability in the arts sector.</p>
     <div class="hero-btns">
