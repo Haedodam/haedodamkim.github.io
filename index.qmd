@@ -123,7 +123,7 @@ title: "Home"
     <div>
       <span class="featured-badge">Featured</span>&nbsp;
       <span class="conf-badge">AAAE 47th Annual Conference · May 2026</span>
-      <p class="proj-title">Organizational Capacity as a Policy Intervention Point: Financial Sustainability in U.S. Nonprofit Theater Organizations</p>
+      <p class="proj-title">Which Capacity Matters Most for Earned Revenue? Evidence from U.S. Nonprofit Performing Arts Organizations</p>
       <p class="proj-sub">What began as a Chicago-focused independent study grew into a national analysis — starting with in-depth interviews with 5 local theater organizations, then expanding to quantitative analysis of 457 U.S. nonprofits to examine how revenue structures and organizational capacity shape financial sustainability.</p>
       <div class="proj-tags">
         <span class="proj-tag tag-blue">Mixed Methods Research</span>
