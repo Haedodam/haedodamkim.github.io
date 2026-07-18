@@ -190,22 +190,6 @@ title: "Home"
 </div>
 </a>
 
-<a href="projects/05-trauma-care.html" style="text-decoration:none; color:inherit;">
-  <div class="proj-card">
-    <span class="proj-num">05</span>
-    <div>
-      <p class="proj-title">A Policy Memo: Reducing Geographic Disparities in Trauma Care Access in Cook County</p>
-      <p class="proj-sub">A policy memo diagnosing geographic disparities in trauma care access in Cook County through a five-step sequential model and evaluating four policy alternatives using a weighted decision matrix.</p>
-      <div class="proj-tags">
-  <span class="proj-tag tag-blue">Policy Memo</span>
-  <span class="proj-tag tag-amber">Decision Matrix · BOTEC</span>
-  <span class="proj-tag tag-gray">Public Health</span>
-      </div>
-    </div>
-    <span class="proj-arrow">→</span>
-  </div>
-  </a>
-  
 </div>
 
 <div id="contact" class="contact-section">
