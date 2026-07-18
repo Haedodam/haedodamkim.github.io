@@ -126,7 +126,7 @@ title: "Home"
       <p class="proj-title">Which Capacity Matters Most for Earned Revenue? Evidence from U.S. Nonprofit Performing Arts Organizations</p>
       <p class="proj-sub">What began as a Chicago-focused independent study grew into a national analysis — starting with in-depth interviews with 5 local theater organizations, then expanding to quantitative analysis of 457 U.S. nonprofits to examine how revenue structures and organizational capacity shape financial sustainability.</p>
       <div class="proj-tags">
-        <span class="proj-tag tag-blue">Mixed Methods Research</span>
+        <span class="proj-tag tag-blue">Academic Paper</span>
         <span class="proj-tag tag-amber">Regression · In-Depth Interviews</span>
         <span class="proj-tag tag-gray">Nonprofit Finance · Arts Policy</span>
         <span class="proj-tag tag-teal">R</span>
