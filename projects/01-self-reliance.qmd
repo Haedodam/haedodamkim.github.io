@@ -26,13 +26,13 @@ title: ""
     </div>
 
     <div class="proj-actions">
-      <a href="01_Independent-Study_Haedodam-Kim.pdf" target="_blank" class="btn-outline">
-        <i class="ti ti-file-description" aria-hidden="true"></i> Independent Study Report
-      </a>
-      <a href="01_Paper_Haedodam-Kim.pdf" target="_blank" class="btn-primary">
-        <i class="ti ti-file-text" aria-hidden="true"></i> Read Full Paper
-      </a>
-    </div>
+  <a href="01_Paper_Haedodam-Kim.pdf" target="_blank" class="btn-primary">
+    <i class="ti ti-file-text" aria-hidden="true"></i> Read Full Paper
+  </a>
+  <a href="01_Independent-Study_Haedodam-Kim.pdf" target="_blank" class="btn-outline">
+    <i class="ti ti-file-description" aria-hidden="true"></i> Exploratory Report
+  </a>
+</div>
 
     <div class="proj-meta">
       <div class="meta-item">
